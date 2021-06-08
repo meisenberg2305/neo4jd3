@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "_from": "git+https://github.com/meisenberg2305/neo4jd3.git",
   "_id": "neo4jd3@0.0.5",
   "_inBundle": false,
@@ -35,7 +34,6 @@
   },
   "deprecated": false,
   "description": "Neo4jD3",
-=======
   "name": "neo4jd3",
   "version": "0.0.5",
   "description": "Neo4jD3",
@@ -68,7 +66,6 @@
   "dependencies": {
     "d3": "^4.2.1"
   },
->>>>>>> 46dfc12ce1835bb9ce2b4f909ca629b554c9c297
   "devDependencies": {
     "angular-mocks": "^1.5.7",
     "bootstrap": "^3.3.7",
@@ -123,7 +120,6 @@
     "wallabify": "^0.0.14",
     "watchify": "^3.7.0",
     "wrench": "^1.5.9"
-<<<<<<< HEAD
   },
   "directories": {
     "test": "test"
@@ -146,7 +142,5 @@
     "test": "gulp test"
   },
   "version": "0.0.5"
-=======
   }
->>>>>>> 46dfc12ce1835bb9ce2b4f909ca629b554c9c297
 }
