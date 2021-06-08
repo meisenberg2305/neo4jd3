@@ -142,5 +142,4 @@
     "test": "gulp test"
   },
   "version": "0.0.5"
-  }
 }
